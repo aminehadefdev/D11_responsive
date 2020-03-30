@@ -1,0 +1,19 @@
+@media screen and (min-width: 1025px){
+    main{
+        
+    }
+    .main-item{
+        width: 33.33%;
+    }
+    #content{
+        width: 100%;
+        order: 6;
+    }
+    #sign-up{
+        width: 100%;
+        order: 5;
+    }
+    .main-item-desktop{
+        height: 40vh;
+    }
+}
